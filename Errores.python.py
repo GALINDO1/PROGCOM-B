@@ -10,7 +10,7 @@ Original file is located at
 
 **SyntaxError: positional argument follows keyword argument**
 
-Este ereror ocuure cuando se pone en una posicion después de usar un argumetos.
+Este error ocuure cuando se pone en una posicion después de usar un argumetos.
 """
 
 print ( sep = " My name is " , " Giovanni . " , sep = " " ) 
